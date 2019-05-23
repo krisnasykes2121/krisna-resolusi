@@ -3,4 +3,3 @@ belajar css
 belajar javascript
 belajar php
 belajar github
-belajar android studio
