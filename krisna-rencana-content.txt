@@ -1,1 +1,2 @@
 belajar node js
+belajar phyton
